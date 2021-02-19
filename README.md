@@ -1,2 +1,1 @@
-# PySpark in Jupiter notebook 
-# Google Colab
+# Install & Run Spark in minutes on any computer/tablet 
