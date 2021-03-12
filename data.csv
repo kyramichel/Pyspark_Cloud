@@ -1,0 +1,999 @@
+Product,Price,Region,Country,Latitude,Longitude
+Product1,"$1,200.00 ",MO,United States,39.195,-94.68194
+Product1,"$1,200.00 ",OR,United States,46.18806,
+Product2,"$3,600.00 ",AL,United States,33.52056,-86.8025
+Product1,"$1,200.00 ",NJ,United States,,-75.23806
+Product1,"$1,200.00 ",IL,United States,40.69361,-89.58889
+Product1,"$1,200.00 ",TN,United States,36.34333,-88.85028
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",TX,United States,29.42389,-98.49333
+Product1,"$1,200.00 ",ID,United States,43.69556,-116.35306
+Product1,"$1,200.00 ",NJ,United States,40.03222,-74.95778
+Product1,"$1,200.00 ",UT,United States,40.76083,-111.89028
+Product1,"$1,200.00 ",CA,United States,,-117.08333
+Product1,"$1,200.00 ",TX,United States,29.61944,-95.63472
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",IL,United States,40.61278,-89.45917
+Product1,"$1,200.00 ",CA,United States,37.22667,-121.97361
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",FL,United States,25.77389,-80.19389
+Product1,"$1,200.00 ",NY,United States,,
+Product1,"$1,200.00 ",VA,United States,38.96861,-77.34139
+Product1,"$1,200.00 ",AZ,United States,33.44833,-112.07333
+Product1,"$1,200.00 ",TX,United States,29.76306,-95.36306
+Product2,"$3,600.00 ",VT,United States,43.77222,-72.81333
+Product2,"$3,600.00 ",VT,United States,43.77222,-72.81333
+Product1,"$1,200.00 ",GA,United States,34.33806,-84.37667
+Product2,"$3,600.00 ",IL,United States,41.54278,-87.68472
+Product1,"$1,200.00 ",TX,United States,29.76306,-95.36306
+Product2,"$3,600.00 ",FL,United States,26.46111,-80.07306
+Product1,"$1,200.00 ",GA,United States,33.92417,-84.37861
+Product1,"$1,200.00 ",FL,United States,26.12194,-80.14361
+Product1,"$1,200.00 ",IA,United States,41.72972,-93.60556
+Product1,"$1,200.00 ",NC,United States,,-79.1775
+Product1,"$1,200.00 ",NY,United States,40.91139,-73.78278
+Product1,"$1,200.00 ",OH,United States,41.46444,-81.50889
+Product1,"$1,200.00 ",NH,United States,43.64917,-72.31083
+Product1,"$1,200.00 ",MD,United States,39.53306,
+Product1,"$1,200.00 ",TN,United States,35.14944,-90.04889
+Product1,"$1,200.00 ",OH,United States,39.16194,-84.45694
+Product1,"$1,200.00 ",NY,United States,40.63667,-74.15917
+Product1,"$1,200.00 ",MI,United States,42.46444,-83.37639
+Product1,"$1,200.00 ",CA,United States,34.01944,-118.49028
+Product2,"$3,600.00 ",CA,United States,33.66944,-117.82222
+Product1,"$1,200.00 ",VA,United States,37.61917,-75.76417
+Product1,"$1,200.00 ",HI,United States,21.30694,-157.85833
+Product1,"$1,200.00 ",FL,United States,30.66944,-81.46278
+Product1,"$1,200.00 ",FL,United States,25.72111,-80.26861
+Product1,"$1,200.00 ",FL,United States,25.77389,-80.19389
+Product1,"$1,200.00 ",CO,United States,39.64778,-104.98722
+Product1,"$1,200.00 ",IL,United States,42.09722,-88.69278
+Product1,"$1,200.00 ",FL,United States,26.30972,-80.2375
+Product1,"$1,200.00 ",CA,United States,37.775,-122.41833
+Product1,"$1,200.00 ",VA,United States,37.61917,-75.76417
+Product1,"$1,200.00 ",NJ,United States,40.63667,-74.91028
+Product1,"$1,200.00 ",KY,United States,37.77417,-87.11333
+Product1,"$1,200.00 ",TX,United States,33.1425,-96.96917
+Product1,"$1,200.00 ",MD,United States,38.98056,-76.93722
+Product1,"$1,200.00 ",HI,United States,19.7349,-155.9003
+Product1,"$1,200.00 ",CA,United States,33.84917,-118.3875
+Product1,"$1,200.00 ",AZ,United States,33.61167,-111.71667
+Product1,"$2,100.00 ",NY,United States,41.37222,-73.73389
+Product1,"$1,200.00 ",IL,United States,,
+Product1,"$1,200.00 ",TX,United States,30.07972,-95.41694
+Product1,"$1,200.00 ",CA,United States,33.11917,-117.08556
+Product1,"$1,200.00 ",VA,United States,39.04361,-77.48778
+Product1,"$1,200.00 ",CA,United States,34.05222,-118.24278
+Product1,"$1,200.00 ",WA,United States,47.25028,-122.2925
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",GA,United States,33.9525,-84.55
+Product1,"$1,200.00 ",TX,United States,29.76306,-95.36306
+Product1,"$1,200.00 ",NJ,United States,40.79861,-74.23944
+Product1,"$1,200.00 ",CA,United States,33.94,-118.13167
+Product1,"$1,200.00 ",CA,United States,37.88583,-122.11694
+Product1,"$1,200.00 ",AR,United States,33.94556,-93.84694
+Product1,"$1,200.00 ",MD,United States,39.43361,-76.35806
+Product1,"$1,200.00 ",MD,United States,39.43361,-76.35806
+Product1,"$1,200.00 ",NJ,United States,40.70694,-74.95639
+Product1,"$1,200.00 ",KY,United States,38.25417,-85.75944
+Product1,"$1,200.00 ",VA,United States,39.04361,-77.48778
+Product2,"$3,600.00 ",CA,United States,34.05222,-118.24278
+Product2,"$3,600.00 ",NY,United States,40.71417,-74.00639
+Product2,"$3,600.00 ",MN,United States,44.94444,-93.09306
+Product2,"$3,600.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",MN,United States,45.10778,-93.23778
+Product1,"$1,200.00 ",WA,United States,47.60639,-122.33083
+Product1,"$1,200.00 ",NJ,United States,39.83806,-75.15306
+Product1,"$1,200.00 ",GA,United States,34.07528,-84.29417
+Product1,"$1,200.00 ",DC,United States,38.895,-77.03667
+Product1,"$1,200.00 ",DC,United States,38.895,-77.03667
+Product1,"$1,200.00 ",GA,United States,33.96083,-83.37806
+Product1,"$1,200.00 ",GA,United States,34.09639,-83.76139
+Product1,"$1,200.00 ",MI,United States,42.48944,-83.14472
+Product1,"$1,200.00 ",MI,United States,42.48944,-83.14472
+Product1,"$1,200.00 ",MA,United States,42.39583,-71.17917
+Product1,"$1,200.00 ",CT,United States,41.02278,-73.56528
+Product1,"$1,200.00 ",FL,United States,25.71222,-80.25722
+Product1,"$1,200.00 ",VA,United States,38.90111,-77.26556
+Product2,"$3,600.00 ",CA,United States,37.78,-121.97694
+Product1,"$1,200.00 ",VA,United States,36.84667,-76.28556
+Product1,"$1,200.00 ",VA,United States,36.84667,-76.28556
+Product1,"$1,200.00 ",MD,United States,39.01806,-77.20889
+Product3,"$7,500.00 ",LA,United States,32.525,-93.75
+Product1,"$1,200.00 ",LA,United States,32.525,-93.75
+Product1,"$1,200.00 ",NJ,United States,40.33667,-74.0475
+Product1,"$1,200.00 ",PA,United States,39.95222,-75.16417
+Product1,"$1,200.00 ",GA,United States,33.74889,-84.38806
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",MA,United States,42.33167,-71.12167
+Product1,"$1,200.00 ",TX,United States,32.81389,-96.94861
+Product1,"$1,200.00 ",OH,United States,41.66417,-83.64333
+Product2,"$3,600.00 ",CA,United States,37.38417,-122.23417
+Product3,"$7,500.00 ",UT,United States,40.66,-111.99556
+Product1,"$1,200.00 ",NY,United States,40.65,-73.95
+Product2,"$3,600.00 ",CA,United States,38.29972,-122.66556
+Product1,"$1,200.00 ",IL,United States,41.67361,-88.00167
+Product1,"$1,200.00 ",CA,United States,37.50722,-122.25944
+Product1,"$1,200.00 ",IL,United States,41.85,-87.65
+Product1,"$1,200.00 ",NY,United States,40.68361,-73.51056
+Product1,"$1,200.00 ",GA,United States,34.94889,-85.25694
+Product1,"$1,200.00 ",NJ,United States,39.24167,-74.81556
+Product1,"$1,200.00 ",CA,United States,32.85722,-116.92139
+Product1,"$1,200.00 ",FL,United States,26.30972,-80.2375
+Product1,"$1,200.00 ",FL,United States,26.70528,-80.03667
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",AK,United States,61.21806,-149.90028
+Product1,"$1,200.00 ",NJ,United States,40.4497,-74.482
+Product2,"$3,600.00 ",FL,United States,30.33194,-81.65583
+Product1,"$1,200.00 ",TX,United States,29.73528,-94.97722
+Product1,"$1,200.00 ",FL,United States,28.02194,-81.73306
+Product1,"$1,200.00 ",WA,United States,47.65889,-117.425
+Product1,"$1,200.00 ",MA,United States,42.45222,-71.1375
+Product1,"$1,200.00 ",TX,United States,32.78333,-96.8
+Product2,"$3,600.00 ",MN,United States,44.94444,-93.09306
+Product1,"$1,200.00 ",NV,United States,39.2475,-114.88778
+Product1,"$1,200.00 ",VA,United States,36.84667,-76.28556
+Product1,"$1,200.00 ",TX,United States,29.76306,-95.36306
+Product1,"$1,200.00 ",IL,United States,41.98111,-89.595
+Product1,"$1,200.00 ",PA,United States,39.89694,-76.16389
+Product2,"$3,600.00 ",FL,United States,25.77389,-80.19389
+Product1,"$1,200.00 ",MD,United States,38.99056,-77.02639
+Product1,"$1,200.00 ",OR,United States,45.52361,-122.675
+Product1,"$1,200.00 ",NY,United States,40.56472,-74.1275
+Product1,"$1,200.00 ",TX,United States,29.42389,-98.49333
+Product2,"$3,600.00 ",CO,United States,39.64778,-104.98722
+Product1,"$1,200.00 ",TX,United States,29.42389,-98.49333
+Product1,"$1,200.00 ",HI,,22.22361,-159.48528
+Product1,"$1,200.00 ",CA,United States,37.88583,-122.11694
+Product1,"$1,200.00 ",NY,United States,42.68361,-78.33806
+Product1,"$1,200.00 ",TX,United States,30.26694,-97.74278
+Product1,"$1,200.00 ",NJ,United States,40.98917,-74.14111
+Product1,"$1,200.00 ",NY,United States,40.88528,-73.37667
+Product1,"$1,200.00 ",MN,United States,44.90333,-93.56611
+Product1,"$1,200.00 ",TX,United States,32.94111,-97.13389
+Product1,"$1,200.00 ",NY,United States,40.86806,-73.42611
+Product1,"$1,200.00 ",TX,United States,30.15778,-95.48917
+Product1,"$1,200.00 ",TN,United States,36.47028,-86.65139
+Product1,"$1,200.00 ",NY,United States,41.37222,-73.73389
+Product2,"$3,600.00 ",FL,,26.12194,-80.14361
+Product1,$800.00 ,VA,United States,38.89028,-77.08444
+Product1,"$1,200.00 ",,United States,38.99806,-77.28861
+Product1,"$1,200.00 ",MD,United States,39.22,-77.42444
+Product1,"$1,200.00 ",NJ,United States,40.34861,-74.65944
+Product1,"$1,200.00 ",CA,United States,33.76444,-117.79306
+Product1,"$1,200.00 ",PA,United States,40.04056,-75.27944
+Product1,"$1,200.00 ",TX,United States,29.76306,-95.36306
+Product2,"$3,600.00 ",PA,United States,40.00639,-75.70361
+Product1,"$1,200.00 ",TX,United States,33.15667,-94.96806
+Product2,"$3,600.00 ",TX,United States,29.78556,-95.82417
+Product1,"$1,200.00 ",MT,United States,45.77611,-111.17611
+Product1,"$1,200.00 ",NM,United States,35.23778,-106.60611
+Product1,"$1,200.00 ",NJ,United States,40.92528,-73.96333
+Product1,"$1,200.00 ",VA,United States,39.11556,-77.56389
+Product1,"$1,200.00 ",FL,United States,30.38444,-81.93889
+Product1,"$1,200.00 ",VA,United States,36.7775,-82.94167
+Product1,"$1,200.00 ",NC,United States,35.0525,-78.87861
+Product2,"$3,600.00 ",KS,United States,38.98222,-94.67056
+Product2,"$3,600.00 ",MS,United States,34.6175,-89.96861
+Product1,"$1,200.00 ",MD,United States,38.62444,-76.93944
+Product1,"$1,200.00 ",NY,United States,40.65,-73.95
+Product1,"$1,200.00 ",MN,United States,44.64972,-93.2425
+Product1,"$1,200.00 ",CT,United States,41.05333,-73.53917
+Product1,"$1,200.00 ",MI,United States,42.60722,-83.92944
+Product1,"$1,200.00 ",CA,United States,33.03694,-117.29111
+Product1,"$1,200.00 ",KS,United States,39.56306,-95.12139
+Product2,"$3,600.00 ",HI,United States,21.42556,-157.96083
+Product1,"$1,200.00 ",NY,United States,42.9825,-77.40917
+Product1,"$1,200.00 ",AK,United States,64.83778,-147.71639
+Product1,"$1,200.00 ",MD,United States,38.6675,-77.02861
+Product1,"$1,200.00 ",CA,United States,37.36889,-122.03528
+Product1,"$1,200.00 ",NY,United States,42.44056,-76.49694
+Product1,"$1,200.00 ",TX,United States,29.76306,-95.36306
+Product1,"$1,200.00 ",MI,United States,42.46444,-83.37639
+Product1,"$1,200.00 ",NY,United States,40.65,-73.95
+Product1,"$1,200.00 ",VA,United States,38.99806,-77.28861
+Product2,"$3,600.00 ",AZ,United States,33.50917,-111.89833
+Product1,"$1,200.00 ",CA,United States,37.36889,-122.03528
+Product2,"$3,600.00 ",WA,United States,47.61056,-122.19944
+Product1,"$1,200.00 ",MN,United States,44.98,-93.26361
+Product1,"$1,200.00 ",IL,United States,41.85,-87.65
+Product1,"$1,200.00 ",AZ,United States,33.24861,-111.63361
+Product1,"$1,250.00 ",AZ,United States,33.24861,-111.63361
+Product1,"$1,200.00 ",NC,United States,35.99389,-78.89889
+Product1,"$1,200.00 ",TX,United States,30.26694,-97.74278
+Product1,"$1,200.00 ",MD,United States,38.9875,-76.82083
+Product1,"$1,200.00 ",TX,United States,26.30139,-98.16306
+Product1,"$1,200.00 ",CT,United States,41.20083,-73.38111
+Product1,"$1,200.00 ",FL,United States,25.71222,-80.25722
+Product1,"$1,200.00 ",CA,United States,37.775,-122.41833
+Product2,"$3,600.00 ",AZ,United States,33.50917,-111.89833
+Product1,"$1,200.00 ",VA,United States,39.05,-77.40111
+Product1,"$1,200.00 ",CO,United States,39.97778,-105.13139
+Product1,"$1,200.00 ",VA,United States,38.80472,-77.04722
+Product1,"$1,200.00 ",VA,United States,37.20556,-80.03778
+Product1,"$1,200.00 ",GA,United States,33.94111,-84.21361
+Product1,"$1,200.00 ",GA,United States,34.02306,-84.36167
+Product1,"$1,200.00 ",VA,United States,38.79556,-77.61417
+Product1,"$1,200.00 ",MA,United States,42.41528,-71.15694
+Product1,"$1,200.00 ",CA,United States,34.20111,-118.59722
+Product1,"$1,200.00 ",CA,United States,37.33944,-121.89389
+Product1,"$1,200.00 ",MI,United States,42.45944,-83.18278
+Product1,"$1,200.00 ",TX,United States,29.42389,-98.49333
+Product1,"$1,200.00 ",VA,United States,38.32389,-77.46861
+Product1,"$1,200.00 ",TX,United States,29.58194,-95.76056
+Product1,"$1,200.00 ",TN,United States,35.075,-85.06222
+Product1,"$1,200.00 ",CA,United States,32.79778,-117.23944
+Product1,"$1,200.00 ",TX,United States,30.26694,-97.74278
+Product1,"$1,200.00 ",WA,United States,47.60639,-122.33083
+Product1,"$1,200.00 ",WA,United States,47.60639,-122.33083
+Product1,"$1,200.00 ",VA,United States,38.90111,-77.26556
+Product1,"$1,200.00 ",CA,United States,37.54833,-121.9875
+Product1,"$1,200.00 ",NJ,United States,40.345,-74.18444
+Product1,"$1,200.00 ",MD,United States,39.2725,-76.53167
+Product1,"$1,200.00 ",MA,United States,42.65833,-71.1375
+Product1,"$1,200.00 ",CA,United States,34.22417,-118.23917
+Product1,"$1,200.00 ",GA,United States,34.05139,-84.07139
+Product2,"$3,600.00 ",WA,United States,47.60639,-122.33083
+Product1,"$1,200.00 ",VA,United States,38.89028,-77.08444
+Product1,"$1,200.00 ",WA,United States,47.7575,-122.24278
+Product1,"$1,200.00 ",CA,United States,36.74778,-119.77139
+Product1,"$1,200.00 ",CA,United States,35.48944,-120.66972
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",IA,United States,41.00861,-91.9625
+Product1,"$1,200.00 ",GA,United States,33.9525,-84.55
+Product1,"$1,200.00 ",PA,United States,40.96333,-76.61306
+Product1,"$1,200.00 ",AZ,United States,33.86722,-112.14611
+Product1,"$1,200.00 ",VA,United States,38.89028,-77.08444
+Product2,"$3,600.00 ",FL,United States,28.53806,-81.37944
+Product1,"$1,200.00 ",CA,United States,37.90639,-122.06389
+Product1,"$1,200.00 ",CO,United States,39.57917,-104.87639
+Product1,"$1,200.00 ",CT,United States,41.41389,-73.30389
+Product1,"$1,200.00 ",NJ,United States,40.89889,-74.09306
+Product1,"$1,200.00 ",CA,United States,32.71528,-117.15639
+Product1,"$1,200.00 ",WA,United States,47.53028,-122.03139
+Product1,"$1,200.00 ",MA,United States,42.44722,-71.225
+Product1,"$1,200.00 ",CA,United States,34.18972,-118.13028
+Product1,$250.00 ,CA,United States,34.18972,-118.13028
+Product2,"$3,600.00 ",CA,United States,38.545,-121.73944
+Product1,"$1,200.00 ",CA,United States,34.14778,-118.14361
+Product1,"$1,200.00 ",IL,United States,41.98111,-89.595
+Product1,"$1,200.00 ",CT,United States,41.1175,-73.40833
+Product1,"$1,200.00 ",IN,United States,38.32444,-85.87361
+Product1,"$1,200.00 ",GA,United States,33.9525,-84.55
+Product1,"$1,800.00 ",GA,United States,33.9525,-84.55
+Product1,"$1,200.00 ",HI,United States,21.30694,-157.85833
+Product3,"$7,500.00 ",TN,United States,35.96056,-83.92083
+Product1,"$1,200.00 ",TN,United States,35.96056,-83.92083
+Product1,"$1,200.00 ",TX,United States,29.99861,-95.26194
+Product1,"$1,200.00 ",MA,United States,41.64833,-70.48167
+Product1,"$1,200.00 ",MI,United States,42.54667,-83.21139
+Product1,"$1,200.00 ",FL,United States,29.89444,-81.31472
+Product1,"$1,200.00 ",UT,United States,40.76083,-111.89028
+Product1,"$1,200.00 ",WA,United States,47.60639,-122.33083
+Product3,"$7,500.00 ",AR,United States,36.33194,-94.11833
+Product1,"$1,200.00 ",AR,United States,36.33194,-94.11833
+Product1,"$1,200.00 ",NJ,United States,40.95583,-73.93167
+Product1,"$1,200.00 ",CA,United States,34.04806,-118.52556
+Product1,"$1,200.00 ",NY,United States,42.54222,-76.66639
+Product1,"$1,200.00 ",,United States,39.84667,-75.71194
+Product2,"$3,600.00 ",CA,United States,37.33944,-121.89389
+Product1,"$1,200.00 ",CA,United States,35.36583,-120.84889
+Product1,"$1,200.00 ",NV,United States,36.175,-115.13639
+Product2,"$3,600.00 ",CA,United States,37.97472,-122.56056
+Product1,"$1,200.00 ",NY,United States,40.66417,-73.70889
+Product1,"$1,200.00 ",CA,United States,37.98722,-122.58778
+Product1,"$1,200.00 ",AZ,United States,33.30611,-111.84056
+Product1,"$1,200.00 ",UT,United States,37.1306,-113.6492
+Product1,"$1,200.00 ",NY,United States,42.88639,-78.87861
+Product3,"$7,500.00 ",MS,United States,34.96167,-89.82944
+Product1,"$1,200.00 ",NY,United States,41.25639,-74.36028
+Product1,"$1,200.00 ",CA,United States,37.56306,-122.32444
+Product1,"$1,200.00 ",FL,United States,28.60056,-81.30667
+Product1,"$1,200.00 ",AZ,United States,33.30611,-111.84056
+Product1,"$1,200.00 ",GA,United States,34.20722,-84.14028
+Product1,"$1,200.00 ",RI,United States,41.51,-71.17167
+Product1,"$1,200.00 ",CO,United States,39.57917,-104.87639
+Product1,"$13,000.00 ",CO,United States,39.57917,-104.87639
+Product1,"$1,200.00 ",VA,United States,38.96944,-77.38639
+Product1,"$1,200.00 ",CA,United States,33.2,-117.24167
+Product1,"$1,200.00 ",WI,United States,43.62278,-87.79444
+Product2,"$3,600.00 ",MI,United States,42.27083,-83.72639
+Product1,"$1,200.00 ",UT,United States,40.56222,-111.92889
+Product1,"$1,200.00 ",NE,United States,40.8,-96.66667
+Product1,"$1,200.00 ",IA,United States,43.45889,-91.86528
+Product1,"$1,200.00 ",IL,United States,41.86611,-88.10694
+Product2,"$3,600.00 ",TX,United States,31.11694,-97.7275
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",RI,United States,41.49694,-71.36778
+Product1,"$1,200.00 ",MD,United States,39.41944,-76.78056
+Product1,"$1,200.00 ",AK,United States,61.21806,-149.90028
+Product1,"$1,200.00 ",CA,United States,33.87028,-117.92444
+Product1,"$1,200.00 ",GA,United States,33.74889,-84.38806
+Product1,"$1,200.00 ",NV,United States,36.175,-115.13639
+Product1,"$1,200.00 ",MI,United States,42.68056,-83.13389
+Product1,"$1,200.00 ",WI,United States,44.38361,-89.81722
+Product1,"$1,200.00 ",TX,United States,30.26694,-97.74278
+Product1,"$1,200.00 ",IL,United States,41.85,-87.65
+Product1,"$1,200.00 ",NV,United States,36.175,-115.13639
+Product2,"$3,600.00 ",MN,United States,44.80417,-93.16667
+Product1,"$1,200.00 ",NY,United States,40.68667,-73.37389
+Product1,"$1,200.00 ",MI,United States,42.53778,-83.23306
+Product2,"$3,600.00 ",CA,United States,34.05222,-118.24278
+Product1,"$1,200.00 ",NC,United States,35.0525,-78.87861
+Product1,"$1,200.00 ",SC,United States,34.73694,-82.25444
+Product1,"$1,200.00 ",NJ,United States,40.83972,-74.27694
+Product1,"$1,200.00 ",CA,United States,37.33944,-121.89389
+Product1,"$1,200.00 ",CA,United States,38.58917,-121.30167
+Product1,"$1,200.00 ",MN,United States,44.98,-93.26361
+Product2,"$3,600.00 ",MD,United States,39.51639,-76.61639
+Product1,"$1,200.00 ",NY,United States,40.92778,-73.75222
+Product1,"$1,200.00 ",IL,United States,41.91417,-88.30861
+Product1,"$1,200.00 ",TN,United States,36.03306,-86.78278
+Product2,"$3,600.00 ",FL,United States,30.42111,-87.21694
+Product1,"$1,200.00 ",FL,United States,27.77056,-82.67944
+Product1,"$1,200.00 ",VA,United States,38.94222,-77.1825
+Product1,"$1,200.00 ",TN,United States,36.30472,-86.62
+Product1,"$1,200.00 ",MI,United States,42.68056,-83.13389
+Product1,"$1,200.00 ",CA,United States,34.005,-118.80917
+Product1,"$1,200.00 ",TX,United States,33.10306,-96.67028
+Product1,"$1,200.00 ",FL,United States,25.79028,-80.13028
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",CA,United States,34.16833,-118.605
+Product1,"$1,200.00 ",AK,United States,61.21806,-149.90028
+Product1,"$1,200.00 ",CA,United States,33.88861,-117.81222
+Product1,"$1,200.00 ",MA,United States,42.30972,-71.12083
+Product1,"$1,200.00 ",CA,United States,34.07361,-118.39944
+Product2,"$3,600.00 ",CA,United States,38.40222,-122.82278
+Product1,"$1,200.00 ",CA,United States,34.13611,-117.86444
+Product1,"$1,200.00 ",MT,United States,45.78333,-108.5
+Product1,"$1,200.00 ",IL,United States,42.28306,-87.95306
+Product2,"$3,600.00 ",CA,United States,33.49361,-117.1475
+Product1,"$1,200.00 ",ID,United States,43.61361,-116.2025
+Product1,"$1,200.00 ",SC,United States,34.92472,-81.02528
+Product1,"$1,200.00 ",HI,United States,21.42556,-157.96083
+Product1,"$1,200.00 ",CO,United States,39.83667,-105.03667
+Product2,"$3,600.00 ",WA,United States,47.53028,-122.03139
+Product1,"$1,200.00 ",CA,United States,33.81694,-118.03639
+Product1,"$1,200.00 ",PA,United States,40.15722,-76.30722
+Product1,"$1,200.00 ",PA,United States,39.87167,-75.59167
+Product2,"$3,600.00 ",VI,United States,18.35917,-64.92111
+Product1,"$1,200.00 ",TX,United States,32.95444,-97.01472
+Product1,"$1,200.00 ",CA,United States,33.57056,-117.63861
+Product1,"$1,200.00 ",FL,United States,26.35833,-80.08333
+Product1,"$1,200.00 ",MN,United States,44.78944,-93.60194
+Product1,"$1,200.00 ",CO,United States,39.61333,-105.01611
+Product1,"$1,200.00 ",GA,United States,33.74889,-84.38806
+Product1,"$1,200.00 ",NJ,United States,40.92528,-73.96333
+Product1,"$1,200.00 ",TN,United States,36.16583,-86.78444
+Product1,"$1,200.00 ",WI,United States,45.04361,-92.04083
+Product1,"$1,200.00 ",CT,United States,41.03333,-73.6
+Product2,"$3,600.00 ",VA,United States,39.00611,-77.42889
+Product1,"$1,200.00 ",CT,United States,41.28139,-73.49861
+Product1,"$1,200.00 ",NY,United States,40.71417,-74.00639
+Product1,"$1,200.00 ",GA,United States,34.07528,-84.29417
+Product1,"$1,200.00 ",TN,United States,35.08667,-89.81
+Product1,"$1,200.00 ",HI,United States,21.30694,-157.85833
+Product1,"$1,200.00 ",NY,United States,40.91139,-73.78278
+Product1,"$1,200.00 ",ME,United States,44.1786,-70.7164
+Product1,"$1,200.00 ",OH,United States,39.75889,-84.19167
+Product1,"$1,200.00 ",NC,United States,34.22556,-77.945
+Product1,"$1,200.00 ",WA,United States,47.60639,-122.33083
+Product1,"$1,200.00 ",CT,United States,41.1175,-73.40833
+Product1,"$1,200.00 ",PA,United States,40.34083,-76.41167
+Product2,"$3,600.00 ",PA,United States,40.03722,-75.34944
+Product1,"$1,200.00 ",NV,United States,36.175,-115.13639
+Product1,"$1,200.00 ",NY,United States,41.25639,-74.36028
+Product2,"$3,600.00 ",MD,United States,38.99056,-77.02639
+Product1,"$1,200.00 ",CA,United States,38.58167,-121.49333
+Product1,"$1,200.00 ",VA,United States,38.81194,-77.63667
+Product1,"$1,200.00 ",AZ,United States,33.50917,-111.89833
+Product1,"$1,200.00 ",MA,United States,42.375,-71.10611
+Product1,"$1,200.00 ",FL,United States,26.01083,-80.14972
+Product1,"$1,200.00 ",CT,United States,41.40306,-72.45139
+Product1,"$1,200.00 ",VA,United States,38.96861,-77.34139
+Product1,"$1,200.00 ",GA,United States,34.07528,-84.29417
+Product1,"$1,200.00 ",GA,United States,34.91583,-85.10917
+Product1,"$1,200.00 ",NJ,United States,40.1478,-74.2133
+Product2,"$3,600.00 ",CA,United States,33.66028,-117.99833
+Product1,"$1,200.00 ",CA,United States,37.22667,-121.97361
+Product1,"$1,200.00 ",VA,United States,38.80472,-77.04722
+Product1,"$1,200.00 ",WI,United States,43.55222,-87.96167
+Product1,"$1,200.00 ",CA,United States,37.775,-122.41833
+Product1,"$1,200.00 ",NY,United States,41.20417,-73.7275
+Product1,"$1,200.00 ",ME,United States,44.94611,-68.64444
+Product1,"$1,200.00 ",NY,United States,41.2219,-73.887
+Product1,"$1,200.00 ",TN,United States,36.16583,-86.78444
+Product1,"$1,200.00 ",FL,United States,26.14167,-81.795
+Product1,"$1,200.00 ",NJ,United States,40.5945,-74.6244
+Product2,"$3,600.00 ",DC,United States,38.895,-77.03667
+Product1,"$1,200.00 ",NC,United States,35.41056,-80.84306
+Product2,"$3,600.00 ",IN,United States,39.69861,-86.46361
+Product1,"$1,200.00 ",TX,United States,33.01444,-97.09667
+Product1,"$1,200.00 ",MI,United States,42.68056,-83.13389
+Product1,"$1,200.00 ",OH,United States,39.96111,-82.99889
+Product1,"$1,200.00 ",NY,United States,40.99778,-72.29306
+Product1,"$1,200.00 ",CA,United States,32.71528,-117.15639
+Product1,"$1,200.00 ",DE,United States,39.74583,-75.54694
+Product1,"$1,200.00 ",WA,United States,47.61056,-122.19944
+Product2,"$3,600.00 ",GA,United States,33.81861,-84.5825
+Product1,"$1,200.00 ",CA,United States,32.71528,-117.15639
+Product1,"$1,200.00 ",MN,United States,44.98,-93.26361
+Product2,"$3,600.00 ",VA,United States,38.89028,-77.08444
+Product1,"$1,200.00 ",FL,United States,29.47472,-82.86
+Product1,"$1,200.00 ",MA,United States,42.33694,-71.20972
+Product1,"$1,200.00 ",CO,United States,39.37222,-104.85556
+Product1,"$1,200.00 ",MD,United States,39.08389,-77.15306
+Product3,"$7,500.00 ",TX,United States,29.53861,-95.44722
+Product1,"$1,200.00 ",TX,United States,29.53861,-95.44722
+Product1,"$1,200.00 ",TX,United States,30.38806,-95.69611
+Product1,"$1,200.00 ",IL,United States,41.25056,-87.83139
+Product2,"$3,600.00 ",FL,United States,28.02194,-81.73306
+Product1,"$1,200.00 ",FL,United States,26.12194,-80.14361
+Product2,"$3,600.00 ",PA,United States,40.69472,-80.13111
+Product1,"$1,200.00 ",VA,United States,38.89028,-77.08444
+Product1,"$1,200.00 ",NY,United States,40.835,-73.13167
+Product1,"$1,200.00 ",VA,United States,38.80472,-77.04722
+Product1,"$1,200.00 ",SC,United States,32.23694,-80.86056
+Product1,"$1,200.00 ",FL,United States,28.69861,-81.30833
+Product1,"$1,200.00 ",MA,United States,42.59972,-71.36778
+Product1,"$1,200.00 ",OH,United States,39.16194,-84.45694
+Product1,"$1,200.00 ",TX,United States,29.76306,-95.36306
+Product1,"$1,200.00 ",CA,United States,38.01722,-122.2875
+Product1,"$1,200.00 ",NY,United States,41.70028,-73.92139
+Product1,"$1,200.00 ",OH,United States,39.16194,-84.45694
+Product1,"$1,200.00 ",MA,United States,41.865,-69.99167
+Product2,"$3,600.00 ",AK,United States,57.05306,-135.33
+Product2,"$3,600.00 ",IL,United States,41.85,-87.65
+Product1,"$1,200.00 ",WA,United States,47.64194,-122.07917
+Product1,"$1,200.00 ",HI,United States,21.31556,-158.00722
+Product1,"$1,200.00 ",NC,United States,35.7825,-80.8875
+Product1,"$1,200.00 ",HI,United States,22.07833,-159.32194
+Product1,"$1,200.00 ",CA,United States,34.18083,-118.30806
+Product2,"$3,600.00 ",SC,United States,32.21611,-80.75278
+Product3,"$7,500.00 ",CA,United States,33.21833,-117.03333
+Product2,"$3,600.00 ",MA,United States,42.47083,-70.91806
+Product1,"$1,200.00 ",TX,United States,29.42389,-98.49333
+Product1,"$1,200.00 ",RI,United States,41.67694,-71.26667
+Product1,"$1,200.00 ",TX,United States,33.13833,-96.11056
+Product1,"$1,200.00 ",CA,United States,33.80056,-118.38917
+Product1,"$1,200.00 ",CO,United States,39.65361,-105.19056
+Product1,"$1,200.00 ",CA,United States,34.09833,-118.32583
+Product1,"$1,200.00 ",CO,United States,39.65361,-105.19056
+Product1,"$1,200.00 ",GA,United States,33.51722,-82.07583
+Product3,"$7,500.00 ",NY,United States,42.94694,-76.42944
+Product1,"$1,200.00 ",WI,United States,43.07306,-89.40111
+Product1,"$1,200.00 ",England,United Kingdom,51.5,-1.1166667
+Product2,"$3,600.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,53.5,-2.2166667
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,51.4,-1.3166667
+Product1,"$1,200.00 ",England,United Kingdom,51.6766667,-2.0180556
+Product1,"$1,200.00 ",England,United Kingdom,51.1166667,-0.8166667
+Product1,"$1,200.00 ",England,United Kingdom,50.9,-1.4
+Product1,"$1,200.00 ",Northern Ireland,United Kingdom,54.65,-5.7333333
+Product1,"$1,200.00 ",England,United Kingdom,51.9,-2.0833333
+Product1,"$1,200.00 ",England,United Kingdom,50.7166667,-1.8833333
+Product1,"$1,200.00 ",England,United Kingdom,53.9666667,-1.0833333
+Product1,"$1,200.00 ",England,United Kingdom,51.2666667,-1.0833333
+Product2,"$3,600.00 ",England,United Kingdom,51.4166667,-0.25
+Product1,"$1,200.00 ",England,United Kingdom,54.65,-1.6666667
+Product1,"$1,200.00 ",Scotland,United Kingdom,57.1333333,-2.1
+Product1,"$1,200.00 ",England,United Kingdom,53.5333333,-2.6166667
+Product1,"$1,200.00 ",England,United Kingdom,54.8333333,-3.2833333
+Product1,"$1,200.00 ",England,United Kingdom,52.0333333,-0.7
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",Scotland,United Kingdom,55.95,-3.2
+Product1,"$1,200.00 ",Scotland,United Kingdom,56.3333333,-3.25
+Product2,"$3,600.00 ",Scotland,United Kingdom,56.6666667,-3
+Product2,"$3,600.00 ",England,United Kingdom,51.2166667,-0.5666667
+Product1,"$1,200.00 ",England,United Kingdom,51.8666667,0.1666667
+Product1,"$1,200.00 ",England,United Kingdom,53.8166667,-3.05
+Product1,"$1,200.00 ",England,United Kingdom,51.51334,-0.08895
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,51.5,-0.5833333
+Product1,"$1,200.00 ",England,United Kingdom,52.0166667,0.25
+Product1,"$1,200.00 ",England,United Kingdom,52.4,-1.6333333
+Product1,"$1,200.00 ",England,United Kingdom,51.9166667,
+Product1,"$1,200.00 ",England,United Kingdom,54.5833333,-1.4166667
+Product1,"$1,200.00 ",England,United Kingdom,51.3,
+Product1,"$1,200.00 ",England,United Kingdom,50.8,-1.1333333
+Product1,"$1,200.00 ",England,United Kingdom,50.9833333,
+Product1,"$1,200.00 ",England,United Kingdom,51.4333333,-1
+Product1,"$1,200.00 ",England,United Kingdom,51.51334,-0.08895
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",Northern Ireland,United Kingdom,54.4666667,-6.3333333
+Product1,"$1,200.00 ",England,United Kingdom,51.6166667,0.3166667
+Product1,"$1,200.00 ",England,United Kingdom,53.5833333,-2.4333333
+Product1,"$1,200.00 ",England,United Kingdom,51.6333333,-0.7666667
+Product1,"$1,200.00 ",England,United Kingdom,53.9666667,-1.0833333
+Product1,"$1,200.00 ",England,United Kingdom,53.5833333,-2.4333333
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,51.5,-0.1166667
+Product1,"$1,200.00 ",Scotland,United Kingdom,55.95,-3.2
+Product1,"$1,200.00 ",Scotland,United Kingdom,56.4,-3.4333333
+Product1,"$1,200.00 ",England,United Kingdom,51.51334,-0.08895
+Product1,"$1,200.00 ",England,United Kingdom,51.2,0.5833333
+Product1,"$1,200.00 ",England,United Kingdom,52.0166667,-1.9666667
+Product1,"$1,200.00 ",England,United Kingdom,52.0333333,-0.7
+Product1,"$1,200.00 ",England,United Kingdom,52.25,-2.7
+Product2,"$3,600.00 ",Scotland,United Kingdom,56.6666667,-3
+Product1,"$1,200.00 ",England,United Kingdom,51.75,-1.25
+Product1,"$1,200.00 ",England,United Kingdom,50.7,-3.5333333
+Product2,"$3,600.00 ",England,United Kingdom,51.52721,0.14559
+Product2,"$3,600.00 ",England,United Kingdom,51.51334,-0.08895
+Product1,"$1,200.00 ",England,United Kingdom,53.4166667,-3
+Product1,"$1,200.00 ",England,United Kingdom,51.4333333,-2
+Product1,"$1,200.00 ",England,United Kingdom,51.4333333,-1
+Product1,"$1,200.00 ",England,United Kingdom,52.4166667,-1.55
+Product1,"$1,200.00 ",England,United Kingdom,52.3,-1.5333333
+Product1,"$1,200.00 ",England,United Kingdom,51.4166667,0.1166667
+Product1,"$1,200.00 ",England,United Kingdom,51.6666667,-0.4
+Product1,"$1,200.00 ",England,United Kingdom,50.2333333,-5.2333333
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,51.75,-1.25
+Product1,"$1,200.00 ",England,United Kingdom,52.05,-1.3333333
+Product1,"$1,200.00 ",England,United Kingdom,51.2666667,1.0833333
+Product2,"$3,600.00 ",Wales,United Kingdom,51.6333333,-4.1
+Product2,"$3,600.00 ",England,United Kingdom,51.1333333,0.2833333
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",Scotland,United Kingdom,57.1333333,-2.1
+Product1,"$1,200.00 ",England,United Kingdom,52.2,-2.2
+Product1,"$1,200.00 ",England,United Kingdom,52.6333333,-1.1333333
+Product1,"$1,200.00 ",England,United Kingdom,51.6,-0.55
+Product1,"$1,200.00 ",England,United Kingdom,52.4666667,-1.9166667
+Product1,"$1,200.00 ",England,United Kingdom,51.75,-1.25
+Product1,"$1,200.00 ",England,United Kingdom,52.3833333,-2.25
+Product1,"$1,200.00 ",England,United Kingdom,51.35,-0.35
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,50.8333333,-0.7833333
+Product1,"$1,200.00 ",Wales,United Kingdom,51.5,-3.2
+Product1,"$1,200.00 ",England,United Kingdom,51.1333333,0.8833333
+Product1,"$1,200.00 ",England,United Kingdom,51.52721,0.14559
+Product1,"$1,200.00 ",England,United Kingdom,51.1,-4.1
+Product1,"$1,200.00 ",England,United Kingdom,51.6666667,-0.4
+Product1,"$1,200.00 ",Scotland,United Kingdom,55.95,-3.2
+Product1,"$1,200.00 ",England,United Kingdom,51.2666667,0.5166667
+Product1,"$1,200.00 ",England,United Kingdom,51.75,-0.3333333
+Product1,"$1,200.00 ",England,United Kingdom,51.3833333,0.4
+Product1,"$1,200.00 ",England,United Kingdom,50.8333333,-0.15
+Product2,"$3,600.00 ",England,United Kingdom,53.65,-1.7833333
+Product1,"$1,200.00 ",Northern Ireland,United Kingdom,54.5833333,-5.9333333
+Product1,"$1,200.00 ",England,United Kingdom,52.0833333,0.4333333
+Product1,"$1,200.00 ",Dubayy,United Arab Emirates,25.2097222,55.2477778
+Product1,"$1,200.00 ",Abu Zaby,United Arab Emirates,24.4666667,54.3666667
+Product1,"$1,200.00 ",Dubayy,United Arab Emirates,25.2097222,55.2477778
+Product2,"$3,600.00 ",Dubayy,United Arab Emirates,25.2522222,55.28
+Product2,"$3,600.00 ",Dubayy,United Arab Emirates,25.2522222,55.28
+Product1,"$1,200.00 ",Dubayy,United Arab Emirates,25.2522222,55.28
+Product1,"$1,200.00 ",Kiev,Ukraine,50.5166667,30.25
+Product1,"$1,200.00 ",Istanbul,Turkey,40.6166667,29.0666667
+Product1,"$1,200.00 ",Istanbul,Turkey,41.1980556,29.0302778
+Product1,"$1,200.00 ",Istanbul,Turkey,41.1594444,28.9127778
+Product1,"$1,200.00 ",Istanbul,Turkey,41.1438889,29.0905556
+Product1,"$1,200.00 ",Istanbul,Turkey,41.0186111,28.9647222
+Product1,"$1,200.00 ",Izmir,Turkey,38.4072222,27.1502778
+Product1,"$1,200.00 ",New Providence,The Bahamas,25.05,-77.4166667
+Product1,"$1,200.00 ",Freeport,The Bahamas,26.5333333,-78.7
+Product2,"$3,600.00 ",Krung Thep,Thailand,13.9166667,100.8166667
+Product1,"$1,200.00 ",Phuket,Thailand,7.8833333,98.4
+Product1,"$1,200.00 ",Geneve,Switzerland,46.2333333,6.2
+Product2,"$3,600.00 ",Vaud,Switzerland,46.5333333,6.6666667
+Product1,"$1,200.00 ",Vaud,Switzerland,46.5166667,6.5
+Product1,"$1,200.00 ",Schwyz,Switzerland,47.2,8.75
+Product2,"$3,600.00 ",Basel-Country,Switzerland,47.5333333,7.5666667
+Product1,"$1,200.00 ",Zurich,Switzerland,47.3,8.55
+Product2,"$3,600.00 ",Zug,Switzerland,47.1666667,8.5166667
+Product2,"$3,600.00 ",Ticino,Switzerland,46.2,9.0166667
+Product1,"$1,200.00 ",Zurich,Switzerland,47.25,8.85
+Product1,"$1,200.00 ",Zurich,Switzerland,47.3666667,8.55
+Product1,"$1,200.00 ",Geneve,Switzerland,46.2833333,6.1666667
+Product2,"$3,600.00 ",Vaud,Switzerland,46.4166667,6.2
+Product2,"$3,600.00 ",Zurich,Switzerland,47.45,8.5833333
+Product1,"$1,200.00 ",Zurich,Switzerland,47.4333333,8.4666667
+Product1,"$1,200.00 ",Geneve,Switzerland,46.2,6.1666667
+Product1,"$1,200.00 ",Vaud,Switzerland,46.4833333,6.4
+Product2,"$3,600.00 ",Zurich,Switzerland,47.3666667,8.55
+Product1,"$1,200.00 ",Neuchatel,Switzerland,47,6.9666667
+Product1,"$1,200.00 ",Basel-Town,Switzerland,47.5666667,7.6
+Product1,"$1,200.00 ",Geneve,Switzerland,46.1666667,6.1166667
+Product1,"$1,200.00 ",Vaud,Switzerland,46.4,6.1833333
+Product2,"$3,600.00 ",Bern,Switzerland,46.9166667,7.4666667
+Product1,"$1,200.00 ",Basel-Country,Switzerland,47.5166667,7.55
+Product1,"$1,200.00 ",Zurich,Switzerland,47.3333333,8.6166667
+Product2,"$3,600.00 ",St Gallen,Switzerland,47.4166667,9.6
+Product2,"$3,600.00 ",Geneve,Switzerland,46.1833333,6.1333333
+Product2,"$3,600.00 ",Vaud,Switzerland,46.5333333,6.6666667
+Product1,"$1,200.00 ",Vaud,Switzerland,46.3,7.05
+Product2,"$3,600.00 ",Zurich,Switzerland,47.2833333,8.5333333
+Product1,"$1,200.00 ",Geneve,Switzerland,46.2,6.1666667
+Product1,"$1,200.00 ",Ticino,Switzerland,46.0166667,8.95
+Product2,"$3,600.00 ",Vaud,Switzerland,46.4333333,6.25
+Product2,"$3,600.00 ",Aargau,Switzerland,47.35,8.3833333
+Product1,"$1,200.00 ",Zug,Switzerland,47.1666667,8.5166667
+Product1,"$1,200.00 ",Geneve,Switzerland,46.2833333,6.2166667
+Product1,"$1,200.00 ",Aargau,Switzerland,47.4666667,8.3
+Product1,"$1,200.00 ",Stockholm,Sweden,59.2833333,18.3
+Product2,"$3,600.00 ",Skane,Sweden,55.6,13
+Product1,"$1,200.00 ",Vasterbotten,Sweden,63.8333333,20.25
+Product1,"$1,200.00 ",Stockholm,Sweden,59.3333333,18.05
+Product1,"$1,200.00 ",Stockholm,Sweden,59.3,18.1666667
+Product1,"$1,200.00 ",Uppsala,Sweden,60.3333333,17.5
+Product1,"$1,200.00 ",Stockholm,Sweden,59.4166667,18.0166667
+Product1,"$1,200.00 ",Stockholm,Sweden,59.3,18.1666667
+Product1,"$1,200.00 ",Stockholm,Sweden,59.3833333,18.0666667
+Product1,"$1,200.00 ",Stockholm,Sweden,59.3166667,18.1166667
+Product2,"$3,600.00 ",Stockholm,Sweden,59.3666667,18.1333333
+Product2,"$3,600.00 ",Ostergotland,Sweden,58.6,16.1833333
+Product1,"$1,200.00 ",Stockholm,Sweden,59.5,18.05
+Product1,"$1,200.00 ",Murcia,Spain,37.9333333,-1.1333333
+Product1,"$1,200.00 ",Catalonia,Spain,41.3833333,2.1833333
+Product1,"$1,200.00 ",Catalonia,Spain,41.3833333,2.1833333
+Product1,"$1,200.00 ",Madrid,Spain,40.4,-3.6833333
+Product1,"$1,200.00 ",Madrid,Spain,40.4,-3.6833333
+Product1,"$1,200.00 ",Andalucia,Spain,37.3772222,-5.9869444
+Product2,"$3,600.00 ",Catalonia,Spain,41.3,2.0166667
+Product1,"$1,200.00 ",Pais Vasco,Spain,43.0166667,-2.4
+Product1,"$1,200.00 ",Murcia,Spain,38.0166667,-1.1333333
+Product1,"$1,200.00 ",Madrid,Spain,40.4,-3.6833333
+Product1,"$1,200.00 ",Madrid,Spain,40.5333333,-3.6333333
+Product1,"$1,200.00 ",Madrid,Spain,40.5833333,-4.1166667
+Product1,"$1,200.00 ",Soul-t'ukpyolsi,South Korea,37.5333333,127.1166667
+Product1,"$1,200.00 ",Gauteng,South Africa,-26.1666667,27.8666667
+Product1,"$1,200.00 ",Gauteng,South Africa,-25.8744444,28.1705556
+Product1,"$1,200.00 ",KwaZulu-Natal,South Africa,-29.85,31.0166667
+Product3,"$7,500.00 ",KwaZulu-Natal,South Africa,-29.6166667,30.3833333
+Product1,"$1,200.00 ",Gauteng,South Africa,-26.1833333,28.3166667
+Product2,"$3,600.00 ",Moscow City,Russia,55.6283333,37.6608333
+Product1,"$1,200.00 ",,,44.4666667,26.1333333
+Product1,"$1,200.00 ",Pomorskie,Poland,54.35,18.6666667
+Product1,"$1,200.00 ",Mazowieckie,Poland,52.1666667,20.8333333
+Product1,"$1,200.00 ",Bohol,Philippines,9.9136111,124.0927778
+Product1,"$1,200.00 ",General Santos,Philippines,6.1036111,125.2163889
+Product1,"$1,200.00 ",Rogaland,Norway,58.9666667,5.75
+Product1,"$1,200.00 ",Oslo,Norway,59.9166667,10.75
+Product1,"$1,200.00 ",Oslo,Norway,59.9666667,10.6666667
+Product1,"$1,200.00 ",Oslo,Norway,59.9166667,10.75
+Product1,"$1,200.00 ",Rogaland,Norway,58.9666667,5.75
+Product1,"$1,200.00 ",Vestfold,Norway,59.4136111,10.4669444
+Product1,"$1,200.00 ",Rogaland,Norway,58.8833333,5.6
+Product1,"$1,200.00 ",Sogn og Fjordane,Norway,61.55,6.35
+Product1,"$1,200.00 ",Oslo,Norway,59.8608333,10.7905556
+Product1,"$1,200.00 ",Hordaland,Norway,60.3911111,5.3247222
+Product1,"$1,200.00 ",Hordaland,Norway,60.6333333,6.4333333
+Product1,"$1,200.00 ",Oslo,Norway,59.9166667,10.75
+Product2,"$3,600.00 ",Oslo,Norway,59.9166667,10.75
+Product1,"$1,200.00 ",Rogaland,Norway,58.9666667,5.75
+Product1,"$1,200.00 ",Vestfold,Norway,59.3488889,10.4675
+Product1,"$1,200.00 ",Buskerud,Norway,59.8166667,10.25
+Product1,"$1,200.00 ",Taranaki,New Zealand,-39.0666667,174.0833333
+Product1,"$1,200.00 ",Auckland,New Zealand,-36.7,174.75
+Product1,"$1,200.00 ",Auckland,New Zealand,-36.8666667,174.7666667
+Product1,"$1,200.00 ",Auckland,New Zealand,-36.55,174.7166667
+Product1,"$1,200.00 ",Auckland,New Zealand,-37.1333333,174.75
+Product1,"$1,200.00 ",Taranaki,New Zealand,-39.5916667,174.2833333
+Product1,"$1,200.00 ",Noord-Brabant,Netherlands,51.45,5.4666667
+Product1,"$1,200.00 ",Noord-Holland,Netherlands,52.3333333,4.7833333
+Product1,"$1,200.00 ",Groningen,Netherlands,53.1333333,6.6333333
+Product1,"$1,200.00 ",Zuid-Holland,Netherlands,52.0833333,4.3
+Product1,"$1,200.00 ",Noord-Holland,Netherlands,52.35,4.9166667
+Product1,"$1,200.00 ",Noord-Holland,Netherlands,52.35,4.9166667
+Product1,"$1,200.00 ",Noord-Holland,Netherlands,52.55,4.6666667
+Product1,"$1,200.00 ",Noord-Holland,Netherlands,52.3,5.15
+Product2,"$3,600.00 ",Zuid-Holland,Netherlands,52.0833333,4.3
+Product1,"$1,200.00 ",Zuid-Holland,Netherlands,52.0833333,4.3
+Product1,"$1,200.00 ",Noord-Holland,Netherlands,52.35,4.9166667
+Product1,"$1,200.00 ",Zuid-Holland,Netherlands,52.0833333,4.3
+Product1,"$1,200.00 ",Zuid-Holland,Netherlands,52.0833333,4.3
+Product2,"$3,600.00 ",Gelderland,Netherlands,52.0333333,5.6666667
+Product2,"$3,600.00 ",Utrecht,Netherlands,52.0833333,5.1333333
+Product1,"$1,200.00 ",Zuid-Holland,Netherlands,52.0833333,4.3
+Product1,"$1,200.00 ",Zuid-Holland,Netherlands,52.0833333,4.3
+Product3,"$7,500.00 ",Zuid-Holland,Netherlands,52.0833333,4.3
+Product2,"$3,600.00 ",Noord-Holland,Netherlands,52.2333333,5.1833333
+Product1,"$1,200.00 ",Groningen,Netherlands,53.2166667,6.55
+Product1,"$1,200.00 ",Zuid-Holland,Netherlands,52.0833333,4.3
+Product2,"$3,600.00 ",Zuid-Holland,Netherlands,52.1833333,4.4666667
+Product1,"$1,200.00 ",,Monaco,43.7333333,7.4166667
+Product1,"$1,200.00 ",,Monaco,43.7333333,7.4166667
+Product1,"$1,200.00 ",Chisinau,Moldova,46.985,28.9425
+Product2,"$3,600.00 ",Black River,Mauritius,-20.3602778,57.3661111
+Product2,"$3,600.00 ",,Malta,35.9202778,14.4425
+Product1,"$1,200.00 ",,Malta,36.0377778,14.2941667
+Product1,"$1,200.00 ",Kuala Lumpur,Malaysia,3.1666667,101.7
+Product1,"$1,200.00 ",Luxembourg,Luxembourg,49.5855556,6.1230556
+Product1,"$1,200.00 ",Riga,Latvia,57.0333333,24.1
+Product1,"$1,200.00 ",,Kuwait,29.2891667,48.05
+Product1,"$1,200.00 ",,Jersey,49.2,-2.0333333
+Product1,"$1,200.00 ",Tokyo,Japan,35.6333333,139.65
+Product1,"$1,200.00 ",Tokyo,Japan,35.685,139.7513889
+Product1,"$1,200.00 ",Lombardy,Italy,45.4666667,9.2
+Product1,"$1,200.00 ",Veneto,Italy,45.55,11.55
+Product2,"$3,600.00 ",Veneto,Italy,45.3666667,11.6166667
+Product2,"$3,600.00 ",Lombardy,Italy,45.4666667,9.2
+Product1,"$1,200.00 ",Tuscany,Italy,43.7666667,11.25
+Product2,"$3,600.00 ",Sardinia,Italy,39.2166667,9.1166667
+Product1,"$1,200.00 ",Tuscany,Italy,43.7666667,11.25
+Product1,"$1,200.00 ",Tuscany,Italy,42.7666667,11.1333333
+Product1,"$1,200.00 ",Lombardy,Italy,45.4666667,9.2
+Product1,"$1,200.00 ",Lazio,Italy,41.9,12.4833333
+Product1,"$1,200.00 ",Tuscany,Italy,43.8333333,10.4833333
+Product1,"$1,200.00 ",Lombardy,Italy,45.4666667,9.2
+Product3,"$7,500.00 ",Sicilia,Italy,38.4666667,14.95
+Product3,"$7,500.00 ",Sicilia,Italy,38.4666667,14.95
+Product1,"$1,200.00 ",Sicilia,Italy,38.4666667,14.95
+Product1,"$1,200.00 ",Tel Aviv,Israel,32.0666667,34.7666667
+Product1,"$1,200.00 ",Meath,Ireland,53.6772222,-6.3191667
+Product1,"$1,200.00 ",Cork,Ireland,51.8630556,-8.58
+Product1,"$1,200.00 ",Dublin,Ireland,53.4247222,-6.1758333
+Product1,"$1,200.00 ",Dublin,Ireland,53.3122222,-6.2683333
+Product1,"$1,200.00 ",Kilkenny,Ireland,52.7205556,-7.5825
+Product3,"$7,500.00 ",Meath,Ireland,53.6527778,-6.6813889
+Product2,"$3,600.00 ",Cork,Ireland,51.8986111,-8.4958333
+Product1,"$1,200.00 ",Dublin,Ireland,53.4508333,-6.1544444
+Product1,"$1,200.00 ",Dublin,Ireland,53.3786111,-6.3922222
+Product1,"$1,200.00 ",Dublin,Ireland,53.3786111,-6.3922222
+Product1,"$1,200.00 ",Dublin,Ireland,53.2522222,-6.1125
+Product1,"$1,200.00 ",Dublin,Ireland,53.3591667,-6.2161111
+Product1,"$1,200.00 ",Cork,Ireland,51.8986111,-8.4958333
+Product1,"$1,200.00 ",Dublin,Ireland,53.3905556,-6.1216667
+Product1,"$1,200.00 ",Dublin,Ireland,53.3986111,-6.2597222
+Product1,"$1,200.00 ",Dublin,Ireland,53.3005556,-6.2827778
+Product1,"$1,200.00 ",Dublin,Ireland,53.335,-6.2113889
+Product1,"$1,200.00 ",Dublin,Ireland,53.2802778,-6.4444444
+Product1,"$1,200.00 ",Dublin,Ireland,53.3591667,-6.2161111
+Product1,"$1,200.00 ",Tipperary,Ireland,52.355,-7.7038889
+Product1,"$1,200.00 ",Louth,Ireland,53.7188889,-6.3477778
+Product1,"$1,200.00 ",Wicklow,Ireland,53.0683333,-6.0658333
+Product1,"$1,200.00 ",Dublin,Ireland,53.2925,-6.1286111
+Product1,"$1,200.00 ",Cork,Ireland,51.8833333,-8.5833333
+Product1,"$1,200.00 ",Cork,Ireland,51.8833333,-8.5833333
+Product1,"$1,200.00 ",Mayo,Ireland,53.85,-9.3
+Product1,"$1,200.00 ",Waterford,Ireland,52.1588889,-7.1463889
+Product1,"$1,200.00 ",Wicklow,Ireland,52.7930556,-6.1413889
+Product1,"$1,200.00 ",Meath,Ireland,53.7233333,-6.2825
+Product1,"$1,200.00 ",Westmeath,Ireland,53.5333333,-7.35
+Product1,"$1,200.00 ",Dublin,Ireland,53.2261111,-6.1244444
+Product1,"$1,200.00 ",Cork,Ireland,51.7469444,-8.7425
+Product1,"$1,200.00 ",Dublin,Ireland,53.3005556,-6.2827778
+Product1,"$1,200.00 ",Meath,Ireland,53.6186111,-6.9205556
+Product1,"$1,200.00 ",Tipperary,Ireland,52.6819444,-7.8022222
+Product1,"$1,200.00 ",Cork,Ireland,51.8986111,-8.4958333
+Product1,"$1,200.00 ",Kerry,Ireland,51.8333333,-9.9
+Product1,"$1,200.00 ",Dublin,Ireland,53.3786111,-6.3922222
+Product1,"$1,200.00 ",Limerick,Ireland,52.6166667,-8.8833333
+Product1,"$1,200.00 ",Cork,Ireland,51.9333333,-8.5666667
+Product1,"$1,200.00 ",Limerick,Ireland,52.5961111,-8.5469444
+Product1,"$1,200.00 ",Cork,Ireland,52.2166667,-9
+Product2,"$3,600.00 ",Dublin,Ireland,53.3244444,-6.3972222
+Product1,"$1,200.00 ",Dublin,Ireland,53.3263889,-6.2947222
+Product1,"$1,200.00 ",Waterford,Ireland,52.2583333,-7.1119444
+Product1,"$1,200.00 ",Cork,Ireland,51.8986111,-8.4958333
+Product1,"$1,200.00 ",Dublin,Ireland,53.2594444,-6.1447222
+Product1,"$1,200.00 ",Dublin,Ireland,53.3030556,-6.1830556
+Product1,"$1,200.00 ",Dublin,Ireland,53.2666667,-6.1741667
+Product1,"$1,200.00 ",Andhra Pradesh,India,17.3833333,78.4666667
+Product1,"$1,200.00 ",Haryana,India,28.4666667,77.0333333
+Product1,"$1,200.00 ",,Iceland,63.85,-21.3666667
+Product1,"$1,200.00 ",Budapest,Hungary,47.4166667,19.0833333
+Product1,"$1,200.00 ",Bacs-Kiskun,Hungary,46.9,19.7833333
+Product1,"$1,200.00 ",Pest,Hungary,47.45,18.9666667
+Product1,"$1,200.00 ",,Hong Kong,22.2833333,114.15
+Product1,"$1,200.00 ",Guatemala,Guatemala,14.65,-90.4833333
+Product1,"$1,200.00 ",Attiki,Greece,37.9833333,23.7333333
+Product2,"$3,600.00 ",Nordrhein-Westfalen,Germany,52.3333333,7.9
+Product1,"$1,200.00 ",Nordrhein-Westfalen,Germany,51.7166667,6.5
+Product1,"$1,200.00 ",Hessen,Germany,50.0833333,8.45
+Product2,"$3,600.00 ",Lower Saxony,Germany,52.2666667,10.5333333
+Product1,"$1,200.00 ",Saxony,Germany,51.05,13.75
+Product2,"$3,600.00 ",Hessen,Germany,50.0833333,8.25
+Product1,"$1,200.00 ",Lower Saxony,Germany,53.1666667,8.2
+Product2,"$3,600.00 ",Bayern,Germany,48.15,11.5833333
+Product1,"$1,200.00 ",Rhineland-Palatinate,Germany,49.4666667,7.4333333
+Product1,"$1,200.00 ",Berlin,Germany,52.5166667,13.4
+Product1,"$1,200.00 ",Hamburg,Germany,53.55,10
+Product1,"$1,200.00 ",Rhineland-Palatinate,Germany,49.4166667,7.4
+Product1,"$1,200.00 ",Lower Saxony,Germany,52.3666667,9.7166667
+Product1,"$1,200.00 ",Thuringia,Germany,51.05,11.65
+Product1,"$1,200.00 ",Rhineland-Palatinate,Germany,49.9833333,8.0666667
+Product2,"$3,600.00 ",Bayern,Germany,48.7,10.8
+Product1,"$1,200.00 ",Baden-Wurttemberg,Germany,48.2833333,9.7333333
+Product1,"$1,200.00 ",Baden-Wurttemberg,Germany,48.9,9.1833333
+Product1,"$1,200.00 ",Baden-Wurttemberg,Germany,48.7666667,9.1833333
+Product1,"$1,200.00 ",Bayern,Germany,49.55,11.5833333
+Product1,"$1,200.00 ",Bayern,Germany,48.15,11.5833333
+Product1,"$1,200.00 ",Baden-Wurttemberg,Germany,48.7666667,9.1833333
+Product1,"$1,200.00 ",Saarland,Germany,49.5,6.6
+Product1,"$1,200.00 ",Thuringia,Germany,51.4666667,10.5
+Product1,"$1,200.00 ",Baden-Wurttemberg,Germany,48.7666667,9.1833333
+Product1,"$1,200.00 ",Ile-de-France,France,48.8833333,2.15
+Product1,"$1,200.00 ",Upper Normandy,France,49.4333333,1.0833333
+Product2,"$3,600.00 ",Ile-de-France,France,48.8666667,2.3333333
+Product3,"$7,500.00 ",Brittany,France,48.0833333,-1.6833333
+Product1,"$1,200.00 ",Provence-Alpes-Cote d'Azur,France,43.25,5.6166667
+Product1,"$1,200.00 ",Pays de la Loire,France,47.9666667,-0.2333333
+Product2,"$3,600.00 ",Provence-Alpes-Cote d'Azur,France,43.6333333,7.1
+Product1,"$1,200.00 ",Brittany,France,47.9,-2.1166667
+Product1,"$1,200.00 ",Ile-de-France,France,48.65,1.8333333
+Product1,"$1,200.00 ",Rhone-Alpes,France,46.2666667,6.25
+Product2,"$3,600.00 ",Rhone-Alpes,France,46.2333333,6.3166667
+Product2,"$3,600.00 ",Ile-de-France,France,48.8666667,2.3333333
+Product1,"$1,200.00 ",Franche-Comte,France,47.25,6.0333333
+Product1,"$1,200.00 ",Ile-de-France,France,48.8666667,2.3333333
+Product1,"$1,200.00 ",Rhone-Alpes,France,46.2833333,6.1
+Product2,"$3,600.00 ",Ile-de-France,France,48.8666667,2.3333333
+Product1,"$1,200.00 ",Rhone-Alpes,France,46.25,6.1166667
+Product1,"$1,200.00 ",Ile-de-France,France,48.8666667,2.3333333
+Product1,"$1,200.00 ",Rhone-Alpes,France,46.0333333,6.2333333
+Product1,"$1,200.00 ",Ile-de-France,France,48.8666667,2.3333333
+Product1,"$1,200.00 ",Rhone-Alpes,France,45.9166667,6.8666667
+Product1,"$1,200.00 ",Franche-Comte,France,47.0333333,5.7666667
+Product1,"$1,200.00 ",Provence-Alpes-Cote d'Azur,France,43.5333333,5.4333333
+Product1,"$1,200.00 ",Provence-Alpes-Cote d'Azur,France,43.5833333,7.1166667
+Product1,"$1,200.00 ",Alsace,France,48.5833333,7.75
+Product1,"$1,200.00 ",Lorraine,France,49.5,6.1666667
+Product2,"$3,600.00 ",Rhone-Alpes,France,46.25,6.1166667
+Product1,"$1,200.00 ",Ita-Suomen Laani,Finland,62.9,27.6833333
+Product1,"$1,200.00 ",Etela-Suomen Laani,Finland,60.9666667,25.6666667
+Product1,"$1,200.00 ",Distrito Nacional,Dominican Republic,18.4666667,-69.9
+Product1,"$1,200.00 ",Frederiksborg,Denmark,56.0333333,12.6166667
+Product1,"$1,200.00 ",Kobenhavn,Denmark,55.6666667,12.5833333
+Product1,"$1,200.00 ",Storstrom,Denmark,54.8333333,11.15
+Product1,"$1,200.00 ",Kobenhavn,Denmark,55.8166667,12.4666667
+Product1,"$1,200.00 ",Kobenhavn,Denmark,55.7333333,12.5833333
+Product1,"$1,200.00 ",Frederiksborg,Denmark,55.8841667,12.5419444
+Product1,"$1,200.00 ",Vestsjalland,Denmark,55.4333333,11.5666667
+Product1,"$1,200.00 ",Kobenhavn,Denmark,55.7666667,12.5166667
+Product1,"$1,200.00 ",Storstrom,Denmark,54.8333333,11.15
+Product1,"$1,200.00 ",Staden Kobenhavn,Denmark,55.6666667,12.5833333
+Product1,"$1,200.00 ",Frederiksborg,Denmark,55.8841667,12.5419444
+Product1,"$1,200.00 ",Kobenhavn,Denmark,55.7666667,12.6
+Product1,"$1,200.00 ",Kobenhavn,Denmark,55.6166667,12.35
+Product1,"$1,200.00 ",Kobenhavn,Denmark,55.75,12.5833333
+Product1,"$1,200.00 ",Arhus,Denmark,56.15,9.8166667
+Product1,"$1,200.00 ",Prague,Czech Republic,50.1333333,14.3833333
+Product2,"$3,600.00 ",Central Bohemia,Czech Republic,50.0833333,14.4666667
+Product1,"$1,200.00 ",East Bohemia,Czech Republic,50.2116667,15.8441667
+Product1,"$1,200.00 ",Heredia,Costa Rica,10.0333333,-84.15
+Product1,"$1,200.00 ",Guangdong,China,22.25,112.7833333
+Product1,"$1,200.00 ",,Cayman Isls,19.3,-81.3833333
+Product1,"$1,200.00 ",Ontario,Canada,45.4166667,-75.7
+Product1,"$1,200.00 ",British Columbia,Canada,49.25,-122.5
+Product2,"$3,600.00 ",Saskatchewan,Canada,53.2,-105.75
+Product1,"$1,200.00 ",Alberta,Canada,52.2666667,-113.8
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",Ontario,Canada,44.1666667,-77.3833333
+Product1,"$1,200.00 ",British Columbia,Canada,49.6833333,-124.9333333
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",British Columbia,Canada,49.25,-123.1333333
+Product1,"$1,200.00 ",Ontario,Canada,44.15,-79.8666667
+Product1,"$1,200.00 ",British Columbia,Canada,49.25,-123.1333333
+Product1,"$1,200.00 ",British Columbia,Canada,49.0166667,-123.0833333
+Product1,"$1,200.00 ",Alberta,Canada,50.7166667,-113.9666667
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",Ontario,Canada,45.3333333,-75.9
+Product1,"$1,200.00 ",Quebec,Canada,45.4,-73.9333333
+Product1,"$1,200.00 ",Northwest Territories,Canada,62.45,-114.35
+Product1,"$1,200.00 ",Manitoba,Canada,49.8833333,-97.1666667
+Product1,"$1,200.00 ",Quebec,Canada,45.5,-73.5833333
+Product1,"$1,200.00 ",Quebec,Canada,45.6,-73.6166667
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",British Columbia,Canada,49.9,-119.4833333
+Product1,"$1,200.00 ",Alberta,Canada,51.7,-113.2666667
+Product1,"$1,200.00 ",British Columbia,Canada,49.25,-123.1333333
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",Ontario,Canada,43.6666667,-79.4166667
+Product1,"$1,200.00 ",Ontario,Canada,50.0666667,-91.75
+Product1,"$1,200.00 ",Quebec,Canada,49.2166667,-68.15
+Product1,"$1,200.00 ",Ontario,Canada,43.9333333,-79.5333333
+Product1,"$1,200.00 ",British Columbia,Canada,49.25,-123.1333333
+Product1,"$1,200.00 ",Ontario,Canada,43.1666667,-79.2333333
+Product1,"$1,200.00 ",Ontario,Canada,45.4166667,-75.7
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",Ontario,Canada,43.85,-79.0166667
+Product1,"$1,200.00 ",Ontario,Canada,46.3,-79.45
+Product2,"$3,600.00 ",Alberta,Canada,50.7166667,-113.9666667
+Product1,"$1,200.00 ",British Columbia,Canada,49.25,-123.1333333
+Product2,"$3,600.00 ",Ontario,Canada,43.6666667,-79.4166667
+Product2,"$3,600.00 ",Saskatchewan,Canada,52.1333333,-106.6666667
+Product1,"$1,200.00 ",British Columbia,Canada,54.4333333,-124.25
+Product1,"$1,200.00 ",Ontario,Canada,43.25,-79.8333333
+Product2,"$3,600.00 ",Ontario,Canada,43.6666667,-79.4166667
+Product2,"$3,600.00 ",Ontario,Canada,46.3,-79.45
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product2,"$3,600.00 ",British Columbia,Canada,49.25,-123.1333333
+Product1,"$1,200.00 ",Ontario,Canada,44.6,-79.4166667
+Product1,"$1,200.00 ",Ontario,Canada,44.3166667,-80.1
+Product1,"$1,200.00 ",Alberta,Canada,53.55,-113.5
+Product1,"$1,200.00 ",British Columbia,Canada,49.9,-119.4833333
+Product1,"$1,200.00 ",Ontario,Canada,43.6666667,-79.4166667
+Product1,"$1,200.00 ",Quebec,Canada,45.5,-73.5833333
+Product1,"$1,200.00 ",British Columbia,Canada,49.3166667,-123.0666667
+Product1,"$1,200.00 ",British Columbia,Canada,49.25,-122.95
+Product1,"$1,200.00 ",Ontario,Canada,45.0166667,-74.7333333
+Product1,"$1,200.00 ",Ontario,Canada,43.9666667,-80.7333333
+Product1,"$1,200.00 ",Quebec,Canada,45.5333333,-73.7166667
+Product1,"$1,200.00 ",Quebec,Canada,45.6333333,-73.85
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",Ontario,Canada,43.55,-80.25
+Product1,"$1,200.00 ",Alberta,Canada,53.55,-113.5
+Product1,"$1,200.00 ",Ontario,Canada,42.8333333,-80.3
+Product1,"$1,200.00 ",Ontario,Canada,42.9333333,-80.2833333
+Product1,"$1,200.00 ",British Columbia,Canada,49.25,-123.1333333
+Product2,"$3,600.00 ",British Columbia,Canada,49.8833333,-124.55
+Product1,"$1,200.00 ",British Columbia,Canada,49.25,-123.1333333
+Product1,"$1,200.00 ",Ontario,Canada,45.4166667,-75.7
+Product2,"$3,600.00 ",British Columbia,Canada,49.1333333,-122.3
+Product2,"$3,600.00 ",Ontario,Canada,43.6666667,-79.4166667
+Product1,"$1,200.00 ",Alberta,Canada,53.55,-113.5
+Product1,"$1,200.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",Quebec,Canada,45.95,-71.9833333
+Product2,"$3,600.00 ",Ontario,Canada,45.4166667,-75.7
+Product2,"$3,600.00 ",Ontario,Canada,43.6666667,-79.4166667
+Product2,"$3,600.00 ",Yukon Territory,Canada,60.1833333,-134.7166667
+Product2,"$3,600.00 ",Alberta,Canada,51.0833333,-114.0833333
+Product1,"$1,200.00 ",Stara Zagora,Bulgaria,42.35,25.6666667
+Product1,"$1,200.00 ",Ceara,Brazil,-3.7166667,-38.5
+Product3,"$7,500.00 ",Sao Paulo,Brazil,-22.9,-47.0833333
+Product1,"$1,200.00 ",Rio Grande do Sul,Brazil,-30.0333333,-51.2
+Product1,"$1,200.00 ",Minas Gerais,Brazil,-19.6666667,-43.9166667
+Product1,"$1,200.00 ",Santa Catarina,Brazil,-26.1180556,-49.8016667
+Product1,"$1,200.00 ",Hamilton,Bermuda,32.2941667,-64.7838889
+Product1,"$1,200.00 ",Brussels (Bruxelles),Belgium,50.8333333,4.3333333
+Product1,"$1,200.00 ",Brussels (Bruxelles),Belgium,50.8333333,4.3333333
+Product1,"$1,200.00 ",Antwerpen,Belgium,51.2166667,4.4166667
+Product2,"$3,600.00 ",Brussels (Bruxelles),Belgium,50.8333333,4.3333333
+Product1,"$1,200.00 ",Brussels (Bruxelles),Belgium,50.8333333,4.3333333
+Product1,"$1,200.00 ",Brussels (Bruxelles),Belgium,50.8333333,4.3333333
+Product1,"$1,200.00 ",Brussels (Bruxelles),Belgium,50.8333333,4.3333333
+Product1,"$1,200.00 ",Hainaut,Belgium,50.4666667,4.1833333
+Product1,"$1,200.00 ",Al Manamah,Bahrain,26.2172222,50.5405556
+Product1,"$1,200.00 ",Vienna,Austria,48.2,16.3666667
+Product1,"$1,200.00 ",Vienna,Austria,48.25,16.3
+Product1,"$1,200.00 ",Vienna,Austria,48.25,16.3
+Product1,"$1,200.00 ",Lower Austria,Austria,48.15,15.9166667
+Product1,"$1,200.00 ",Lower Austria,Austria,48.3,16.3166667
+Product2,"$3,600.00 ",Tyrol,Austria,47.65,12.3166667
+Product1,"$1,200.00 ",Vienna,Austria,48.2166667,16.3666667
+Product1,"$1,200.00 ",Victoria,Australia,-36.1333333,144.75
+Product2,"$3,600.00 ",Queensland,Australia,-27.1666667,152.95
+Product1,"$1,200.00 ",Victoria,Australia,-37.8166667,144.9666667
+Product1,"$1,200.00 ",Queensland,Australia,-28,153.4333333
+Product1,"$1,200.00 ",Queensland,Australia,-27.5,153.0166667
+Product1,"$1,200.00 ",New South Wales,Australia,-32.95,151.6666667
+Product1,"$1,200.00 ",Queensland,Australia,-24.8166667,152.4166667
+Product1,"$1,200.00 ",New South Wales,Australia,-33.8833333,151.2166667
+Product1,"$1,200.00 ",New South Wales,Australia,-34.4333333,150.8833333
+Product1,"$1,200.00 ",Queensland,Australia,-27.8833333,153.3
+Product2,"$3,600.00 ",New South Wales,Australia,-33.6666667,151.3
+Product1,"$1,200.00 ",New South Wales,Australia,-33.8833333,151.2166667
+Product1,"$1,200.00 ",Queensland,Australia,-27.9833333,153.3333333
+Product1,"$1,200.00 ",Victoria,Australia,-37.8333333,144.9666667
+Product1,"$1,200.00 ",Queensland,Australia,-28.2333333,152.0166667
+Product1,"$1,200.00 ",New South Wales,Australia,-33.8166667,151
+Product2,"$3,600.00 ",Victoria,Australia,-37.4833333,144.5833333
+Product1,"$1,200.00 ",New South Wales,Australia,-34.2833333,146.0333333
+Product1,"$1,200.00 ",New South Wales,Australia,-33.7833333,151.1666667
+Product1,"$1,200.00 ",Victoria,Australia,-37.8166667,144.9666667
+Product1,"$1,200.00 ",Victoria,Australia,-37.8166667,144.9666667
+Product1,"$1,200.00 ",New South Wales,Australia,-33.8666667,151.2833333
+Product1,"$1,200.00 ",South Australia,Australia,-34.6166667,138.8833333
+Product1,"$1,200.00 ",Western Australia,Australia,-31.9333333,115.8333333
+Product1,"$1,200.00 ",Victoria,Australia,-38.4166667,144.1666667
+Product1,"$1,200.00 ",Western Australia,Australia,-31.9333333,115.8333333
+Product1,"$1,200.00 ",Victoria,Australia,-37.8166667,144.9666667
+Product2,"$3,600.00 ",Tasmania,Australia,-41.465,148.2572222
+Product1,"$1,200.00 ",Western Australia,Australia,-32.2833333,115.7166667
+Product1,"$1,200.00 ",Victoria,Australia,-37.8166667,144.9666667
+Product2,"$3,600.00 ",Western Australia,Australia,-33.3333333,115.6333333
+Product1,"$1,200.00 ",Queensland,Australia,-27.4833333,153.2166667
+Product1,"$1,200.00 ",Queensland,Australia,-27.5,153.0166667
+Product1,"$1,200.00 ",Western Australia,Australia,-31.9333333,115.8333333
+Product2,"$3,600.00 ",Western Australia,Australia,-31.9333333,115.8333333
+Product1,"$1,200.00 ",Queensland,Australia,-28.05,153.35
+Product2,"$3,600.00 ",New South Wales,Australia,-33.6333333,151.3333333
+Product2,"$3,600.00 ",New South Wales,Australia,-33.8833333,151.2166667
+Product1,"$1,200.00 ",Buenos Aires,Argentina,-37.15,-58.4833333
