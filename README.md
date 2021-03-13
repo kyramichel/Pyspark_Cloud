@@ -4,7 +4,10 @@
 
 # 3. Data Cleansing in PySpark. See: Data_Cleansing_Pyspark.pdf or Data_Cleansing_PySpark.ipynb
 
-In 3. I used for demonstration the uploaded file data.csv that is a subset of Sales transactions dataset available at https://support.spatialkey.com/spatialkey-sample-csv-data/ 
+# In 4. Data Processing with PySpark. See: https://github.com/kyramichel/Spark/blob/master/PySpark_DataProcessing1.ipynb
+
+In 3, 4. I used for demonstration the uploaded file data.csv that is a subset of Sales transactions dataset available at https://support.spatialkey.com/spatialkey-sample-csv-data/ 
+
 
 
  
