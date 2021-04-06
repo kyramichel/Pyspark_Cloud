@@ -1,12 +1,14 @@
 # 1. Install & Run Spark in minutes on any computer/tablet. See: PySpark_GoogleColab.ipynb
 
-# 2. Upload & read data in Spark. See: DataPysparkCloudColab.ipynb
 
-# 3. Data Cleansing in PySpark. See: Data_Cleansing_Pyspark.pdf or Data_Cleansing_PySpark.ipynb
 
-# In 4. Data Processing with PySpark. See: PySpark_DataProcessing1.ipynb and https://github.com/kyramichel/Spark/blob/master/PySpark_DataProcessing2.ipynb
 
-In 3, 4,5 I used for demonstration the uploaded file data.csv that is a subset of Sales transactions dataset available at https://support.spatialkey.com/spatialkey-sample-csv-data/ 
+## Another way to open jupiter notebooks on github.com is to use nbviewer: 
+- Open https://nbviewer.jupyter.org/
+- Copy & Paste the link to the .ipynb notebook (for example: https://github.com/kyramichel/Math_Finance/blob/master/Coupon%20Bonds1.ipynb)
+
+Voila!
+
 
 
 
