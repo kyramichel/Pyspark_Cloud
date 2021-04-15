@@ -1,4 +1,5 @@
-# 1. Install & Run Spark in minutes on any computer/tablet. See: PySpark_GoogleColab.ipynb
+# 1. Install & Run Spark in minutes on any computer/tablet. 
+## Details: PySpark_GoogleColab.ipynb
 
 
 
