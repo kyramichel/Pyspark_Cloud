@@ -5,7 +5,9 @@
 
 
 PS: If you can't open a Jupyter notebook on github, use nbviewer:
-https://github.com/kyramichel/SimpleWay2Open-IPYNB-files
+https://nbviewer.jupyter.org/github/kyramichel/Spark/tree/master/
+
+More @ https://github.com/kyramichel/SimpleWay2Open-IPYNB-files
 
 
 
